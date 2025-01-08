@@ -11,6 +11,7 @@ It has a lot of features to help simplify the process of testing APIs
 - Scripts
 - JWT tokens in Postman
 - Environment Set-up
+- https://aws.amazon.com/verification (216e0cc4f594418989aed8d99a25dabb)
 
 # Other tools used to test API
     - CURL
